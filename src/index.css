@@ -10,8 +10,7 @@ html {
 
 body {
   margin: 0;
-  background-image:url('C:\Users\naikk\Documents\FRONTEND DEVELOPMENT\restaurent app react\restaurent background.avif');
-  background-position: center;
+  background-color: rgb(20, 66, 51);
   background-repeat: no-repeat;
   background-size: cover;
   height:auto;
